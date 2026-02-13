@@ -1,6 +1,6 @@
 # CYART SOC Team - Week 2
 
-Author: Rushikesh Patil  
+Author: Hemang Rathore  
 Role: SOC Analyst Intern  
 
 ## Topics Covered
